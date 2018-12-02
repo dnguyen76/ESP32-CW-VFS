@@ -1,4 +1,4 @@
-# ESP32-CW-VFS
+# ESP32-CW-VSF
  software for ESP32 to generate CW with Volume, Speed and Frequency user settings
  
  This is an ESP32-CW software enhanced version. User can modify settings for Volume, Speed of Morse sequence and also CW generated frequency (Continuous Wave). These settings are implemented by adding supplementary characteristics to UART Blutooth LE service
