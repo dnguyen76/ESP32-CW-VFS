@@ -1,6 +1,8 @@
 # ESP32-CW-VSF
  software for ESP32 to generate CW with Volume, Speed and Frequency user settings
  
+ Pour plus de détails voir le fichier ci joint Super Arduino et CW.pdf
+ 
  This is an ESP32-CW software enhanced version. User can modify settings for Volume, Speed of Morse sequence and also CW generated frequency (Continuous Wave). These settings are implemented by adding supplementary characteristics to UART Blutooth LE service
  
  Also PWM feature of ESP32 is used ( instead of delay() in ESP32-CW) to generate the Morse sequence
